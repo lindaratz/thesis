@@ -47,5 +47,7 @@ The file `wordlist_genderspecific.txt` contains the list of words used in the Re
 ### References
 
 [1] Simone Kopeinik, Martina Mara, Linda Ratz, Klara Krieg, Markus Schedl, and Navid Rekabsaz. “Show me a "Male Nurse"! How Gender Bias is Reflected in the Query Formulation of Search Engine Users”. In: Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI ’23). 2023
+
 [2] Chandler May, Alex Wang, Shikha Bordia, Samuel R. Bowman, and Rachel Rudinger. “On Measuring Social Biases in Sentence Encoders”. In: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers). 2019
+
 [3] Navid Rekabsaz and Markus Schedl. “Do neural ranking models intensify gender bias?” In: Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2020
