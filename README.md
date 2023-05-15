@@ -1,4 +1,4 @@
-# Thesis
+# Measuring Gender Bias in Information Retrieval Models
 
 The files `DocumentSet.csv`, `QuerySet.csv`, and `FineTuningDataset.csv` are based on data from the User Study by Kopeinik et al. [1] (https://github.com/CPJKU/user-interaction-gender-bias-IR). The contents of the file `GenderedSentences` are taken from May et al. [2] (https://github.com/W4ngatang/sent-bias). The file `wordlist_genderspecific.txt` is taken from Rekabsaz et al. [3] (https://github.com/navid-rekabsaz/GenderBias_IR).
 Below the contents of each file are described.
