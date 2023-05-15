@@ -42,7 +42,7 @@ The file `GenderedSentences.csv` contains 119 gendered sentences obtained from c
 
 **wordlist_genderspecific.txt**
 
-The file `wordlist_genderspecific.txt` contains the list of words used in the RepSRB metrics.
+The file `wordlist_genderspecific.txt` contains the list of 32 gender-representative words per gender used in the RepSRB metrics.
 
 ### References
 
